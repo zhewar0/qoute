@@ -1,0 +1,20 @@
+* {
+    background-color: black;
+}
+#poster {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+#three {
+    height: 250px;
+    width: 450px;
+    border: 1px solid gold;
+
+}
